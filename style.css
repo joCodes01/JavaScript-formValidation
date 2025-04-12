@@ -1,0 +1,31 @@
+
+body {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.h1-staffdashboard {
+    margin-top: 6rem;
+}
+
+.update-database-container {
+    margin-top: 4rem;
+}
+
+.updatecabin-container, div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.updatecabin-container, input {
+    max-width: 30rem;
+}
+
+.updatecabin-container, label {
+    margin-bottom: .3rem;
+}
+
+
+
+
