@@ -3,4 +3,4 @@
 
  The page is for a fake cabin rental business to update a database with new cabin details.
 
- the form can be seen here: https://jocodes01.github.io/JavaScript-formValidation/
+ the form can be accessed here: https://jocodes01.github.io/JavaScript-formValidation/
